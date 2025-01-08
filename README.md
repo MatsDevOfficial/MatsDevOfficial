@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MatsDevOfficial
 - 👀 I’m interested in Coding(duh), Scouting, Discord, Youtube, Minecraft and Outdoor
-- 🌱 I’m currently learning to use Python and JavaScript
-- 💞️ I’m looking to collaborate on projects for ```Websites```
+- 💞️ I’m looking to collaborate on projects for ```Websites & apps```
 - 😄 Pronouns: ♂️
 
 
