@@ -4,5 +4,5 @@
     - [ ] Pagina; verplaatsen naar rechts
     - [ ] Logo invoegen in tekst
 - [ ] Schiervogel
-    - [ ] Woo opzetten
+    - [x] Woo opzetten
     - [ ] Producten prijzen afwegen
